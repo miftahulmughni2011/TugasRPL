@@ -1,0 +1,19 @@
+login pelayan
+username : pelayan
+password : admin
+
+login koki
+username : koki
+password : admin
+
+login pantry
+username : pantry
+password : admin
+
+login kasir
+username : kasir
+password : admin
+
+login Costumer service
+username : cs
+password : admin
